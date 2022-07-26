@@ -1,0 +1,12 @@
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Release\VoicePad.exe.config
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Release\VoicePad.exe
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Release\VoicePad.pdb
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice Pad.csproj.AssemblyReference.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice Pad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice_Pad.AboutBox1.resources
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice_Pad.Form1.resources
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice_Pad.Properties.Resources.resources
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice Pad.csproj.GenerateResource.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\Voice Pad.csproj.CoreCompileInputs.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\VoicePad.exe
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Release\VoicePad.pdb

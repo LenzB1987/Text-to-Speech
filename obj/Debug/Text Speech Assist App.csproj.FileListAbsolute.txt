@@ -1,0 +1,16 @@
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Debug\VoicePad.exe.config
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Debug\VoicePad.exe.manifest
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Debug\VoicePad.application
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Debug\VoicePad.exe
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\bin\Debug\VoicePad.pdb
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text Speech Assist App.csproj.AssemblyReference.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text Speech Assist App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Voice_Pad.Properties.Resources.resources
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text Speech Assist App.csproj.GenerateResource.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text Speech Assist App.csproj.CoreCompileInputs.cache
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\VoicePad.exe.manifest
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\VoicePad.application
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\VoicePad.exe
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\VoicePad.pdb
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text_SpeechAssist_App.AboutBox1.resources
+C:\Users\Lab_pc\Downloads\sharp\cognitive\Voicepad-master\obj\Debug\Text_SpeechAssist_App.Form1.resources
